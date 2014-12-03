@@ -1,0 +1,22 @@
+{
+  "name": "calcgrid",
+  "version": "1.0.0",
+  "description": "A Stylus calc() grid that works with Masonry.",
+  "main": "calcGrid.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/corysimmons/calcGrid.git"
+  },
+  "keywords": [
+    "stylus",
+    "calc",
+    "grid",
+    "responsive"
+  ],
+  "author": "Cory Simmons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corysimmons/calcGrid/issues"
+  },
+  "homepage": "https://github.com/corysimmons/calcGrid"
+}
